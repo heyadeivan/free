@@ -1,0 +1,41 @@
+[
+    {
+        "domain": ".google.com",
+        "expirationDate": 1735961804.453788,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "AEC",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "AVYB7cpmmOPJAbdODfr4uy2un3YNZ4_PZMyKtUqu9oLpDiMuCnkVT0adGEc"
+    },
+    {
+        "domain": "chromewebstore.google.com",
+        "expirationDate": 1723267687,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "OTZ",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "7639528_28_28__28_"
+    },
+    {
+        "domain": ".google.com",
+        "expirationDate": 1736486887.283963,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "NID",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "515=cM-zB4tdDJifUS3HQWYr-uJJ23aYQynkbanf_Iu5NPq_m1hqPZ5jyvMAm-Y2_MuiYrgr3LFPK7PzZg_0g-Zebc3W0niy5lJ-X-3c0Ag3VqGxSjbjikMrRlmQOjs7KseWZuLGXtE-xM6t_nM_zi5Ib3vyDkwQGeJ2obrz3vzx7HtNyk1bvzk9Ee0GV29-7pU"
+    }
+]
